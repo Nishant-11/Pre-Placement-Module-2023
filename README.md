@@ -4,7 +4,7 @@
 - University Roll No.: 1900290210105
 - Branch: Electrical and Electronics Engineering 
 - Section: B 
-- Preferred Programming Language: C++/Java/Python
+- Preferred Programming Language:Java
 
 ## Coding Profiles
 - LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/Nishant_37)
